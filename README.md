@@ -2,8 +2,8 @@
 
 <h3>Setup</h3>
 <ul>
-<li>1. Install the requirements from the text file or <code>pip install requests</code></li>
-<li>2. Get your Canvas access token</li>
+<li>Install the requirements from the text file or <code>pip install requests</code></li>
+<li>Get your Canvas access token</li>
 <ul>
 <li>
 Go to Settings in your Canvas profile
