@@ -1,1 +1,2 @@
-# canvas-student-grades
+Get your grades from Canvas using Python!
+
