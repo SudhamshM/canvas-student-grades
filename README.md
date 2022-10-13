@@ -23,3 +23,6 @@ Run the file!
 </ul>
 Here's a sample output of what it would look like.
 <img alt="sample" src="https://user-images.githubusercontent.com/88403902/195489831-8fdaf063-c0af-4c70-8511-03a7ab06a30a.jpg">
+
+<h3> Extras </h3>
+Visit the <a href="https://canvas.instructure.com/doc/api/">Canvas LMS API Documentation here</a>!
