@@ -1,7 +1,8 @@
 import json
 import requests
 
-headerss = {'Authorization': 'Bearer 7301~yUgEprYtG8pBR9r77jf24WHegw6kAPoR2aO22c8zKvPggvsqBcyv51ZksyuyqFe5'}
+bearer_token = # put token here
+headerss = {'Authorization': f'Bearer {bearer_token}'}
 user_id: int
 
 
